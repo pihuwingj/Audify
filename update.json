@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "app": "Audify",
+  "latest_version": "1.0.1",
+  "version_code": 2,
+  "force_update": false,
+  "download_url": "https://github.com/pihuwingj/Audify/releases/download/Music/Audify.apk",
+  "release_date": "2026-07-20",
+  "changelog": [
+    "New Features Added",
+    "Improved performance",
+    "Bug fixes",
+    "Added Wordle Game Play Games While Listening"
+  ]
+}
